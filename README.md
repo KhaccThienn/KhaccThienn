@@ -7,7 +7,7 @@
 <table>
     <tr>
        <td>- 🔭 I’m currently working on </td> 
-       <td>BachKhoa-Aptech</td>
+       <td>BachKhoa - Aptech</td>
        <td><img src="https://product.bachkhoa-aptech.edu.vn:33/Resources/Images/logo-bkap-edu.png"></td>
     </tr>
     <tr style="text-align: center">
