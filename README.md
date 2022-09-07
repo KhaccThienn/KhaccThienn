@@ -45,5 +45,4 @@
 ![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔108,000&color=blueviolet)
 ![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔108,000&color=blueviolet)
 ![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔108,000&color=blueviolet)
-![Markdown Usage](https://img.shields.io/endpoint?color=red&label=I%27m%20Khacc%20Thienn&logo=github&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fsoundcloud.com%2Fmuzan-kibutsuji-459261133)
 
