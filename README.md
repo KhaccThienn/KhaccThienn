@@ -39,7 +39,7 @@
 ![Markdown Usage](https://img.shields.io/static/v1?label=CSS3&message=❌Untracked&color=blue)
 ![Markdown Usage](https://img.shields.io/static/v1?label=Javascript&message=❌Untracked&color=yellow)
 ![Markdown Usage](https://img.shields.io/static/v1?label=ReactJS&message=✔Modified&color=blue)
-![Markdown Usage](https://img.shields.io/static/v1?label=AngularJS&message=✔Tracked&color=success)
+![Markdown Usage](https://img.shields.io/static/v1?label=AngularJS&message=✔&nbsp;Tracked&color=success)
 
 ![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔108,000&color=important)
 ![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔108,000&color=critical)
