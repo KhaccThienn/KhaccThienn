@@ -8,25 +8,25 @@
 - 💬 Ask me about my profile ?
 - 📫 How to reach me: [GitHub](https://github.com/KhaccThienn) [Facebook](https://facebook.com/le.khac.thien.311003)
 - ⚡ Fun fact: I'm Noob
-<table style="text-align: center !important">
-    <tr>
+<table>
+    <tr style="text-align: center">
        <td>🔭 I’m currently working on </td> 
        <td>BachKhoa-Aptech</td>
        <td><img src="https://product.bachkhoa-aptech.edu.vn:33/Resources/Images/logo-bkap-edu.png"></td>
     </tr>
-    <tr>
+    <tr style="text-align: center">
        <td>🔭 I’m currently working on </td> 
        <td colspan="2">BachKhoa-Aptech</td>
     </tr>
-    <tr>
+    <tr style="text-align: center">
        <td>🔭 I’m currently working on </td> 
        <td colspan="2">BachKhoa-Aptech</td>
     </tr>
-    <tr>
+    <tr style="text-align: center">
        <td>🔭 I’m currently working on </td> 
        <td colspan="2">BachKhoa-Aptech</td>
     </tr>
-    <tr>
+    <tr style="text-align: center">
        <td>🔭 I’m currently working on </td> 
        <td colspan="2">BachKhoa-Aptech</td>
     </tr>
