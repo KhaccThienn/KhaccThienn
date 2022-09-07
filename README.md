@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi Everyoneeee 👋
 
 **KhaccThienn/KhaccThienn**
 **Welcome to my world**
  
 
-- ⚡ Fun fact: I'm Noob
 <table>
     <tr style="text-align: center">
        <td>- 🔭 I’m currently working on </td> 
@@ -22,7 +21,11 @@
        <td colspan="3">- 💬 Ask me about my profile ?</td> 
     </tr>
     <tr style="text-align: center">
-       <td>- 📫 How to reach me:</td> 
+       <td>- 📫 How to contact with me ?</td> 
        <td colspan="2"> <a href="https://github.com/KhaccThienn">GitHub</a> <a href="https://facebook.com/le.khac.thien.311003">Facebook</a></td>
+    </tr>
+    <tr style="text-align: center">
+       <td>- ⚡ Fun fact ?</td> 
+       <td colspan="2"> I'm Under Bottom Of Society</td>
     </tr>
 </table>
