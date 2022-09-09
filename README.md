@@ -1,7 +1,3 @@
-# HAPPY BIRTHDAY TO LAN ANH <3 
-```
-   Happy Birthday, My Love
-```
 ### Hi Everyoneeee 👋
 @KhaccThienn
 
