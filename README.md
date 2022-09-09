@@ -35,7 +35,7 @@
 ![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhaccThienn&theme=2077)
 ![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhaccThienn&theme=2077)
 
-![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔Ne&color=brightgreen)
+![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔&color=brightgreen)
 ![Markdown Usage](https://img.shields.io/static/v1?label=HTML5&message=❌Untracked&color=red)
 ![Markdown Usage](https://img.shields.io/static/v1?label=CSS3&message=❌Untracked&color=blue)
 ![Markdown Usage](https://img.shields.io/static/v1?label=Javascript&message=❌Untracked&color=yellow)
