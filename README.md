@@ -5,7 +5,7 @@
 <br>
 **Welcome to my world**
 <br>
-<a href="https://khaccthienn.github.io/introduce/#!/">Here Is My Profile</a>
+<a href="https://khaccthienn.github.io/introduce/#!/" target="_blank">Here Is My Profile</a>
 
 <table>
     <tr>
