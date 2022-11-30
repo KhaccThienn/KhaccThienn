@@ -21,7 +21,7 @@
     
 - 🌱 I’m currently learning Web Development, ReactJS, Angular, Laravel...
       
-- ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (DNC)
+- ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (BKAP)
   
 - 🧐 Portfolio Website: https://khaccthienn.github.io/introduce/#!/
 
@@ -53,7 +53,7 @@
 
 
 
-<h2> Skills|Kĩ năng: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <h4> Languages </h4>
 <span> 
     <p align="center">
@@ -89,9 +89,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanHipp&theme=swift&hide_border=false" width="100%" /></p>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanHipp&theme=swift&hide_border=false&include_all_commits=false&count_private=true" width="100%" /></p>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanHipp&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="100%" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhaccThienn&theme=swift&hide_border=false" width="100%" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaccThienn&theme=swift&hide_border=false&include_all_commits=false&count_private=true" width="100%" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaccThienn&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="100%" /></p>
     <td>
       <br>
       <p align="center"> 
@@ -100,7 +100,7 @@
     </td>
   </tr>
 </table>
-<p>&nbsp;<img align="center" src="https://github-trophies.vercel.app/?username=TanHipp&theme=flat&no-frame=true&no-bg=false&margin-w=4" width="100%" /</p>
+<p>&nbsp;<img align="center" src="https://github-trophies.vercel.app/?username=KhaccThienn&theme=flat&no-frame=true&no-bg=false&margin-w=4" width="100%" /</p>
 
 
 <hr>
