@@ -125,7 +125,7 @@
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="40%" height="30%" /></p>
+<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" /></p>
 <br>
 <br>
 
