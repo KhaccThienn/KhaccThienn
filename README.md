@@ -1,52 +1,136 @@
-# Hi Everyoneeee 👋
-## @KhaccThienn
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-*KhaccThienn/KhaccThienn*
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺, &lt;Le Khac Thien/&gt;!
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</h1>
+<h3 align="center">Web Developer from Vietnam </h3>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhaccThienn" alt="https://github.com/KhaccThienn" /> <img src="https://badges.pufler.dev/repos/KhaccThienn" alt=""/></p>
+ <br>
+
+    
+- 🌱 I’m currently learning **Backend**  
+    
+- 🌱 I’m currently learning Web Development, ReactJS, Angular, Laravel...
+      
+- ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (DNC)
+  
+- 🧐 Portfolio Website: https://khaccthienn.github.io/introduce/#!/
+
+
+<hr>
+
+<p align="center">
+<img src="lank.jpg" width="100%"/>
+</p>
+
+<h2> Contact for work </h2>
+<p align="center">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100087359869639" target="_blank" alt="Facebook">
+  <img src="https://img.icons8.com/fluency/65/000000/facebook.png"/>
+  </a>
+  <a>
+  <a href="https://zalo.me/0392689213"  target="_blank" alt="Zalo">
+  <img src="https://img.icons8.com/color/65/000000/zalo.png"/>
+  </a>
+  <a href="https://github.com/KhaccThienn" alt="Github">
+  <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
+  </a> 
+  <a href="muzankibut112@gmail.com" alt="Email">
+  <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+</p>
+
+
+
+<h2> Skills|Kĩ năng: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h4> Languages </h4>
+<span> 
+    <p align="center">
+    <img src="https://img.icons8.com/fluency/65/000000/html-5.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/php.png"/>
+  </p>
+</span>
+<h4> Frameworks </h4>
+<span> 
+    <p align="center">
+      <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/laravel.png"/>
+
+  </p>
+</span>
+<h4> Database</h4>    
+<span>
+   <p align="center">
+     <img src="https://img.icons8.com/fluency/65/000000/mysql-logo.png"/>
+   </p>
+</span>
+<h4>  IDE</h4>    
+<span>
+   <p align="center">
+    <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
+   </p>
+</span>
 
 <br>
-**Welcome to my world**
-<br>
-
-<a href="https://khaccthienn.github.io/introduce/#!/" target="_blank">Here Is My Profile</a>
-
-![Cecily](/Screenshot%20(425)-min.png)
-<table>
-    <tr>
-       <td>- 🔭 I’m currently working on </td> 
-       <td>BachKhoa - Aptech</td>
-       <td><img src="https://product.bachkhoa-aptech.edu.vn:33/Resources/Images/logo-bkap-edu.png"></td>
-    </tr>
-    <tr style="text-align: center">
-       <td>-🌱 I’m currently learning</td> 
-       <td colspan="2"> ReactJS, VueJS, PyAI, Django</td>
-    </tr>
-    <tr style="text-align: center">
-       <td colspan="3">- 🤔 I’m looking for help with myself</td> 
-    </tr>
-    <tr style="text-align: center">
-       <td colspan="3">- 💬 Ask me about my profile ?</td> 
-    </tr>
-    <tr style="text-align: center">
-       <td>- 📫 How to contact with me ?</td> 
-       <td colspan="2"> <a href="https://github.com/KhaccThienn">GitHub</a> <a href="https://facebook.com/le.khac.thien.311003">Facebook</a></td>
-    </tr>
-    <tr style="text-align: center">
-       <td>- ⚡ Fun fact ?</td> 
-       <td colspan="2"> I'm Under Bottom Of Society</td>
-    </tr>
+<table style="width:100%;">
+  <tr>
+    <td>
+      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanHipp&theme=swift&hide_border=false" width="100%" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanHipp&theme=swift&hide_border=false&include_all_commits=false&count_private=true" width="100%" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanHipp&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="100%" /></p>
+    <td>
+      <br>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
 </table>
+<p>&nbsp;<img align="center" src="https://github-trophies.vercel.app/?username=TanHipp&theme=flat&no-frame=true&no-bg=false&margin-w=4" width="100%" /</p>
 
-![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaccThienn&theme=2077)
-![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhaccThienn&theme=2077)
-![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhaccThienn&theme=2077)
 
-![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔&color=brightgreen)
-![Markdown Usage](https://img.shields.io/static/v1?label=HTML5&message=❌Untracked&color=red)
-![Markdown Usage](https://img.shields.io/static/v1?label=CSS3&message=❌Untracked&color=blue)
-![Markdown Usage](https://img.shields.io/static/v1?label=Javascript&message=❌Untracked&color=yellow)
-![Markdown Usage](https://img.shields.io/static/v1?label=ReactJS&message=✔Modified&color=blue)
-![Markdown Usage](https://img.shields.io/static/v1?label=AngularJS&message=✔&nbsp;Tracked&color=success)
+<hr>
+<p align="center">Github Contributions</p>
+<br>
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=KhaccThienn&theme=react-dark&hide_border=true">
+<p>
 
-![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔108,000&color=important)
-![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔108,000&color=critical)
-![Markdown Usage](https://img.shields.io/static/v1?label=KhaccThienn&message=✔108,000&color=blueviolet)
+<hr>
+<br>
+
+<hr>
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
+
+
+<br>
+<br>
+<br>
+✍️Random Dev Quote
+<br>
+<br>
+<br>
+<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="40%" height="30%" /></p>
+<br>
+<br>
+
+Page Visitors💖
+
+![Visitor Count](https://profile-counter.glitch.me/KhaccThienn/count.svg)
+
+</p>
