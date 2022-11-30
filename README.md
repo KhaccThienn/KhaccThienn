@@ -46,7 +46,7 @@
   <a href="https://github.com/KhaccThienn" alt="Github" >
   <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
   </a> 
-  <a mailTo="muzankibut112@gmail.com" alt="Email"  target="_blank">
+  <a href="mailto:muzankibut112@gmail.com" alt="Email"  target="_blank">
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
