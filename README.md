@@ -25,14 +25,6 @@
   
 - 🧐 Portfolio Website: https://khaccthienn.github.io/introduce/#!/
 
-
-<hr>
-<h2> This is my love ❤ </h2>
-<p align="center">
-<img src="lank.jpg" width="100%"/>
-</p>
-<hr>
-
 <h2> Contact for work </h2>
 <p align="center">
   </a>
