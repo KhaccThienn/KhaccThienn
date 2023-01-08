@@ -94,13 +94,6 @@
 <p>&nbsp;<img align="center" src="https://github-trophies.vercel.app/?username=KhaccThienn&theme=flat&no-frame=true&no-bg=false&margin-w=4" width="100%" /</p>
 
 <hr>
-<p align="center">Github Contributions</p>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=KhaccThienn&theme=react-dark&hide_border=true">
-<p>
-
-<hr>
 <br>
 
 <br>
