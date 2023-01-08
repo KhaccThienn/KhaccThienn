@@ -95,15 +95,12 @@
 
 <hr>
 <br>
-
-<br>
-<br>
 <br>
 ✍️Random Dev Quote
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" height="50%" /></p>
+<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="100%" height="50%" /></p>
 <br>
 <br>
 
