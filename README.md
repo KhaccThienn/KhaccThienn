@@ -12,22 +12,18 @@
 </h1>
 <h3 align="center">Web Developer from Vietnam </h3>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhaccThienn" alt="https://github.com/KhaccThienn" /> <img src="https://badges.pufler.dev/repos/KhaccThienn" alt=""/></p>
  <br>
 
-    
-- 🌱 I’m currently learning **Backend**  
-    
+- 🌱 I’m currently learning **Backend**
+
 - 🌱 I’m currently learning Web Development, ReactJS, Angular, Laravel...
-      
 - ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (BKAP)
-  
 - 🧐 Portfolio Website: https://khaccthienn.github.io/introduce/#!/
 
 <h2> Contact for work </h2>
 <p align="center">
-  </a>
+
   <a href="https://www.facebook.com/profile.php?id=100087359869639" target="_blank" alt="Facebook">
   <img src="https://img.icons8.com/fluency/65/000000/facebook.png"/>
   </a>
@@ -40,6 +36,7 @@
   </a> 
   <a href="mailto:muzankibut112@gmail.com" alt="Email"  target="_blank">
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
+  </a>
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 </p>
@@ -95,7 +92,6 @@
 </table>
 <p>&nbsp;<img align="center" src="https://github-trophies.vercel.app/?username=KhaccThienn&theme=flat&no-frame=true&no-bg=false&margin-w=4" width="100%" /</p>
 
-
 <hr>
 <p align="center">Github Contributions</p>
 <br>
@@ -105,7 +101,6 @@
 
 <hr>
 <br>
-
 
 <br>
 <br>
