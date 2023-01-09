@@ -10,7 +10,7 @@
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </h1>
-<h3 align="center">Web Developer from Vietnam </h3>
+<h3 align="center">Developer from Vietnam </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhaccThienn" alt="https://github.com/KhaccThienn" /> <img src="https://badges.pufler.dev/repos/KhaccThienn" alt=""/></p>
  <br>
