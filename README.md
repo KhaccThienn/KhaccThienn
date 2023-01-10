@@ -39,7 +39,6 @@
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
   </a>
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 </p>
 
 <hr>
