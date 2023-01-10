@@ -25,6 +25,7 @@
 <h2> Contact for work </h2>
 <p align="center">
 
+  </a>
   <a href="https://www.facebook.com/profile.php?id=100087359869639" target="_blank" alt="Facebook">
   <img src="https://img.icons8.com/fluency/65/000000/facebook.png"/>
   </a>
@@ -37,7 +38,6 @@
   </a> 
   <a href="mailto:muzankibut112@gmail.com" alt="Email"  target="_blank">
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
-  </a>
 <!--🦶FOOTER--> 
 </p>
 
