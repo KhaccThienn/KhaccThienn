@@ -19,8 +19,8 @@
 
 - 🌱 I’m currently learning Web Development, ReactJS, Angular, Laravel...
 - ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (BKAP)
-- 🧐 Portfolio Website: https://khaccthienn.github.io/introduce/#!/
-- 🎶 Listen to my mixtrack on SoundCloud: [SoundCloud](https://soundcloud.com/kt-dj-706001562/full-set-nhac-cangg-2k23-khaccthienn/)
+- 🧐 Portfolio Website: [Click Here !](https://khaccthienn.github.io/introduce/#!/)
+- 🎶 Listen to my mixtrack on SoundCloud: [SoundCloud]()
 
 <h2> Contact for work </h2>
 <p align="center">
