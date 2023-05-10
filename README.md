@@ -51,7 +51,7 @@
     <img src="https://img.icons8.com/fluency/65/000000/php.png"/>
     <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/ios-filled/50/null/c-sharp-logo.png"/>
+    <img src="https://img.icons8.com/nolan/64/cs.png"/>
   </p>
 </span>
 <h4> Frameworks - Library </h4>
