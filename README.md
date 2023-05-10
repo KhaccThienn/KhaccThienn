@@ -49,28 +49,33 @@
     <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/php.png"/>
-    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-java-computer-programming-flaticons-flat-flat-icons.png"/>
+    <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/null/c-sharp-logo.png"/>
   </p>
 </span>
-<h4> Frameworks </h4>
+<h4> Frameworks - Library </h4>
 <span> 
     <p align="center">
-      <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/laravel.png"/>
-
+    <img src="https://img.icons8.com/color/48/null/nestjs.png"/>
   </p>
 </span>
 <h4> Database</h4>    
 <span>
    <p align="center">
      <img src="https://img.icons8.com/fluency/65/000000/mysql-logo.png"/>
+     <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/>
    </p>
 </span>
 <h4>  IDE</h4>    
 <span>
    <p align="center">
-    <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/nolan/64/visual-studio.png"/>
+    <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
    </p>
 </span>
 
@@ -94,7 +99,7 @@
 <hr>
 <br>
 <br>
-✍️Random Dev Quote
+✍️Random Dev Quote From Me
 <br>
 <br>
 <br>
