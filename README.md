@@ -49,7 +49,7 @@
     <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/php.png"/>
-    <img src="https://img.icons8.com/fluency/65/000000/php.png](https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-java-computer-programming-flaticons-flat-flat-icons.png"/>
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-java-computer-programming-flaticons-flat-flat-icons.png"/>
   </p>
 </span>
 <h4> Frameworks </h4>
