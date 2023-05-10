@@ -15,9 +15,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhaccThienn" alt="https://github.com/KhaccThienn" /> <img src="https://badges.pufler.dev/repos/KhaccThienn" alt=""/></p>
  <br>
 
-- 🌱 I’m currently learning **Backend**
-
-- 🌱 I’m currently learning Web Development, ReactJS, Angular, Laravel...
+- 🌱 I’m currently learning Web Development, Object-Oriented Programming
 - ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (BKAP)
 - 🧐 Portfolio Website: [Click Here !](https://khaccthienn.github.io/introduce/#!/)
 - 🎶 Listen to my mixtrack on SoundCloud: [SoundCloud]()
