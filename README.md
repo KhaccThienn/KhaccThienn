@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Web Development, Object-Oriented Programming
 - ✍ I'm a student of: [Bach Khoa - Aptech ](https://bachkhoa-aptech.edu.vn/) (BKAP)
 - 🧐 Portfolio Website: [Click Here !](https://khaccthienn.github.io/introduce/#!/)
-- 🎶 Listen to my mixtrack on SoundCloud: [SoundCloud]()
+- 🎶 Listen to my mixtrack on SoundCloud: [SoundCloud](https://soundcloud.com/dj-khac-thienn)
 
 <h2> Contact for work </h2>
 <p align="center">
