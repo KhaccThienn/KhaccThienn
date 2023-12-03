@@ -4,7 +4,7 @@
   <a target="_blank">
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   </a>
-  Hii There, 𝗜'𝗺 &lt;Le Khac Thien/&gt;!
+  Hii There, 𝗜'𝗺 &lt;Lee Khacc Thienn/&gt;!
   <a target="_blank">
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   </a>
@@ -76,6 +76,8 @@
     <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/nolan/64/visual-studio.png"/>
     <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/>
+    <img src="https://img.icons8.com/color/48/null/rider-jetbrains.png"/>
+     
    </p>
 </span>
 
