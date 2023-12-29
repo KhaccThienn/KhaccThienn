@@ -82,6 +82,7 @@
 </span>
 
 <br>
+ <img src="https://api.githubtrends.io/user/svg/KhaccThienn/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves"/>
 <table style="width:100%;">
   <tr>
     <td>
