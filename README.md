@@ -61,6 +61,8 @@
     <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
     <img src="https://img.icons8.com/fluency/65/000000/laravel.png"/>
     <img src="https://img.icons8.com/color/48/null/nestjs.png"/>
+    <img src="https://img.icons8.com/?size=100&id=yHPufAHQf4B9&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" />
   </p>
 </span>
 <h4> Database</h4>    
