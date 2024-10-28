@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Khacc Thienn</h1>
 <h3 align="center">Le Khac Thien, 20+, Web Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaccthienn&label=Profile%20views&color=0e75b6&style=flat" alt="khaccthienn" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaccthienn" alt="khaccthienn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhaccThienn" alt="https://github.com/KhaccThienn" /> <img src="https://badges.pufler.dev/repos/KhaccThienn" alt=""/></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaccthienn&label=Profile%20views&color=0e75b6&style=flat" alt="khaccthienn" /> </p>
 <br>
 
 - 🌱 I’m currently learning **Web Development and .NET**
