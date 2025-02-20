@@ -1,11 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <h1 align="center">Hi 👋, I'm Khacc Thienn</h1>
-<h3 align="center">Le Khac Thien, 20+, Web Backend Developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaccthienn" alt="khaccthienn" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">Le Khac Thien, 20+, Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhaccThienn" alt="https://github.com/KhaccThienn" /> 
